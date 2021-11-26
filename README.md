@@ -17,3 +17,7 @@
 [![Create GitHub Release](https://github.com/heitorpolidoro/auto-release/actions/workflows/auto-release.yml/badge.svg)](https://github.com/heitorpolidoro/auto-release/actions/workflows/auto-release.yml)
 [![Sonar](https://github.com/heitorpolidoro/auto-release/actions/workflows/sonar.yml/badge.svg)](https://github.com/heitorpolidoro/auto-release/actions/workflows/sonar.yml)
 
+### To use all default actions
+```shell
+curl https://raw.githubusercontent.com/heitorpolidoro/projects-actions-health/master/default-actions.sh | bash
+```
