@@ -22,9 +22,9 @@
 ```shell
 curl https://raw.githubusercontent.com/heitorpolidoro/projects-actions-health/master/default-actions.sh | bash
 ```
-## [Flake8 with Comments](https://github.com/heitorpolidoro/flake8-with-PR-comments)
-[![Create Pull Request](https://github.com/heitorpolidoro/flake8-with-PR-comments/actions/workflows/autocreate-pr.yml/badge.svg)](https://github.com/heitorpolidoro/flake8-with-PR-comments/actions/workflows/autocreate-pr.yml)
-[![Automerge Pull Request](https://github.com/heitorpolidoro/flake8-with-PR-comments/actions/workflows/automerge-pr.yml/badge.svg)](https://github.com/heitorpolidoro/flake8-with-PR-comments/actions/workflows/automerge-pr.yml)
-[![Create GitHub Release](https://github.com/heitorpolidoro/flake8-with-PR-comments/actions/workflows/auto-release.yml/badge.svg)](https://github.com/heitorpolidoro/flake8-with-PR-comments/actions/workflows/auto-release.yml)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=heitorpolidoro_flake8-with-PR-comments&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=heitorpolidoro_flake8-with-PR-comments)
+## [Lint with Comments](https://github.com/heitorpolidoro/lint-with-PR-comments) [![Latest](https://img.shields.io/github/release/heitorpolidoro/lint-with-PR-comments.svg?label=latest)](https://github.com/heitorpolidoro/lint-with-PR-comments/releases/latest)
+[![Create Pull Request](https://github.com/heitorpolidoro/lint-with-PR-comments/actions/workflows/autocreate-pr.yml/badge.svg)](https://github.com/heitorpolidoro/lint-with-PR-comments/actions/workflows/autocreate-pr.yml)
+[![Automerge Pull Request](https://github.com/heitorpolidoro/lint-with-PR-comments/actions/workflows/automerge-pr.yml/badge.svg)](https://github.com/heitorpolidoro/lint-with-PR-comments/actions/workflows/automerge-pr.yml)
+[![Create GitHub Release](https://github.com/heitorpolidoro/lint-with-PR-comments/actions/workflows/auto-release.yml/badge.svg)](https://github.com/heitorpolidoro/lint-with-PR-comments/actions/workflows/auto-release.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=heitorpolidoro_lint-with-PR-comments&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=heitorpolidoro_lint-with-PR-comments)
 
